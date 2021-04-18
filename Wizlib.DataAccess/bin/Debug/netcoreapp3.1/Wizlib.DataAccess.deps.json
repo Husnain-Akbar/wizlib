@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wizlib.DataAccess/1.0.0": {
+        "dependencies": {
+          "Wizlib.Models": "1.0.0"
+        },
+        "runtime": {
+          "Wizlib.DataAccess.dll": {}
+        }
+      },
+      "Wizlib.Models/1.0.0": {
+        "runtime": {
+          "Wizlib.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wizlib.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wizlib.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

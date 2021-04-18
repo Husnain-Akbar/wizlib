@@ -1,0 +1,9 @@
+F:\dotnetpractice\Wizlib\Wizlib.Models\bin\Debug\netcoreapp3.1\Wizlib.Models.deps.json
+F:\dotnetpractice\Wizlib\Wizlib.Models\bin\Debug\netcoreapp3.1\Wizlib.Models.dll
+F:\dotnetpractice\Wizlib\Wizlib.Models\bin\Debug\netcoreapp3.1\Wizlib.Models.pdb
+F:\dotnetpractice\Wizlib\Wizlib.Models\obj\Debug\netcoreapp3.1\Wizlib.Models.csprojAssemblyReference.cache
+F:\dotnetpractice\Wizlib\Wizlib.Models\obj\Debug\netcoreapp3.1\Wizlib.Models.AssemblyInfoInputs.cache
+F:\dotnetpractice\Wizlib\Wizlib.Models\obj\Debug\netcoreapp3.1\Wizlib.Models.AssemblyInfo.cs
+F:\dotnetpractice\Wizlib\Wizlib.Models\obj\Debug\netcoreapp3.1\Wizlib.Models.csproj.CoreCompileInputs.cache
+F:\dotnetpractice\Wizlib\Wizlib.Models\obj\Debug\netcoreapp3.1\Wizlib.Models.dll
+F:\dotnetpractice\Wizlib\Wizlib.Models\obj\Debug\netcoreapp3.1\Wizlib.Models.pdb
